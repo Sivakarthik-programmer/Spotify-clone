@@ -6,7 +6,7 @@ export const initialState = {
 	playing: false,
 	item: null,
 	//Remove after finishing developing
-	//token: null
+	// token: null
 	token: "BQDT4kgVqnx9ms-Q4UQFqJ-zOeHMmM9INyWuGmor1T6X8YDhJDqRzDVQNA9VYLFG5hgstiLhyAWEB3wDiGkpOvFwTGO-rERXU3GUrV2KYxKU35dOyxXtijsEiRnJ0s_L5xx9pstlPyas0mdyTymvAupaNNgjg0K-vrkMNwDv23cUc3mv",
 };
 
