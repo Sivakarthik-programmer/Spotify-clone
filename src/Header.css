@@ -2,7 +2,6 @@
 	display:  flex;
 	justify-content: space-between;
 	margin-bottom: 30px;
-
 }
 
 .header__left{
@@ -21,7 +20,6 @@
 	width: 100%;
 	outline: none;
 }
-
 
 .header__right{
 	display:  flex;
